@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+pillow
+accelerate
+tqdm
+huggingface_hub
